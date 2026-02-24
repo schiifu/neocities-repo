@@ -5,7 +5,7 @@ archive & repo for my personal neocities webpage.<br>
 
 ### Archive
 
-you can find previous versions here:
+you can find previous versions [here](./archive):
 | version | date | ./ |
 |:--|:--|--:|
 | v1 | february 22, 2026 | [./archive/v1](./archive/v1) |
